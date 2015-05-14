@@ -1,16 +1,16 @@
 #input-1{
-  font-size: 28px;
+  font-size: 50px;
   height: 36px;
   width: 50%;
 }
 
 /*Hide other slides to start*/
 #slide-2, #slide-3, #slide-4, #slide-5{
-  display: none;
+  display: none ;
 }
 
 .slide{
-  margin: 0;
+  margin: 25;
   padding: 20px 100px;
   width: 100%;
 }
@@ -23,5 +23,5 @@
 #slide-3 img{
   border: 10px inset gold;
   display: block;
-  max-width: 300px;
+  max-width: 90px;
 }
